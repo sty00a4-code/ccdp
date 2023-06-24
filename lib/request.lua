@@ -1,4 +1,4 @@
-local response = require "ccdp.response"
+local response = require "ccdp.lib.response"
 _CCDP_VERSION = "0.0.1"
 _CCDP_TIME_OUT = 10
 
